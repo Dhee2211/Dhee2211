@@ -1,46 +1,63 @@
+<div align="center">
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<!--!<p align="center">
-<a href="https://www.linkedin.com/in/dhpanwar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4f46e5,100:7c3aed&text=Dheerendra%20Panwar&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20%C2%B7%20Developer%20tools%20%C2%B7%20Native%20apps&descSize=16&descAlignY=60" alt="Dheerendra Panwar" width="100%">
 
-<!--<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p> -->
+</div>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<p align="center">
+  Building practical tools at the intersection of AI and developer productivity.
+</p>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
----
-
-### 🛠 &nbsp;Languages and Tools :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<p align="center">
+  <a href="https://github.com/Dhee2211?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+  <a href="https://github.com/Dhee2211/TidyMac"><img src="https://img.shields.io/badge/Featured-TidyMac-4f46e5?style=for-the-badge&logo=apple&logoColor=white" alt="TidyMac"></a>
 </p>
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhee2211&theme=dark&background=000000)](https://git.io/streak-stats)
+### Featured project
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhee2211&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+<tr>
+<td width="140" align="center">
+<a href="https://github.com/Dhee2211/TidyMac"><img src="https://raw.githubusercontent.com/Dhee2211/TidyMac/main/docs/screenshot.png" alt="TidyMac" width="120"></a>
+</td>
+<td>
 
----
+**[TidyMac](https://github.com/Dhee2211/TidyMac)**<br>
+A minimal, open-source Mac cleaner. Scan, review, clean. Built with SwiftUI, private and fully on-device.<br><br>
+<a href="https://github.com/Dhee2211/TidyMac/releases/latest">Download</a> ·
+<a href="https://github.com/Dhee2211/TidyMac/issues/new?template=feature_request.yml">Request a feature</a> ·
+<a href="https://github.com/Dhee2211/TidyMac/blob/main/CONTRIBUTING.md">Contribute</a>
 
-### ✍️ Blog Posts : 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+</td>
+</tr>
+</table>
+
+### What I work on
+
+| | |
+|---|---|
+| **AI agents and LLM tooling** | Autonomous agents, prompt tooling and structured prompt formats |
+| **Edge ML** | Machine learning on small devices such as the Raspberry Pi |
+| **Full-stack web and mobile** | Java, Spring, React and Flutter applications |
+| **Native macOS apps** | Small, fast, private utilities |
+
+### Tech
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Open to contributions
+
+Issues, ideas and pull requests are welcome on any of my public repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:4f46e5,100:7c3aed&section=footer" alt="" width="100%">
